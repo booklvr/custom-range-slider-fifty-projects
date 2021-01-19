@@ -1,8 +1,8 @@
 import React from 'react'
-import placeholder from './components/placeholder'
+import CustomRangeSlider from './components/CustomRangeSlider'
 
 const App = () => {
-  return <placeholder />
+  return <CustomRangeSlider />
 }
 
 export default App
